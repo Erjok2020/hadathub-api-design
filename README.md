@@ -1,1 +1,0 @@
-# hadathub-api-design
